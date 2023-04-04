@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**QwertyMo/QwertyMo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Make some kotlin stuff, and develop discord bot in my free time. Sometimes make android apps
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,kotlin,discord" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/261119327053283328?simple=true)
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/261119327053283328)
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/261119327053283328)
+
+Some links:
+
+- My discord bot: https://kettuproj.ru/discord
+- Discord server: https://discord.gg/5RQqCxF8rm
+- VK: https://vk.com/qwertymo_new
